@@ -1,2 +1,2 @@
 # git_test
-My practice repository!
+Bienvenido a mi repositorio de practicas!
